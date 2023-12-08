@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2023-12-08T08:10:01.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="lv-wW02j7i8if_RBK_Fv" version="22.1.7" type="github">
+  <diagram name="Page-1" id="NlZdT-h6klr3rx47xZVC">
+    <mxGraphModel dx="1386" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aGSnk0FZWNhGvoQKEdLp-1" value="Foundation data (Organisation, Location, People) IDM, Cobra" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="620" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGSnk0FZWNhGvoQKEdLp-2" value="Asset database - Reconciliation - Aether" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="620" y="480" width="120" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="aGSnk0FZWNhGvoQKEdLp-3" value="Catalogue data BMC Helix/LeanIX/SNOW" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="410" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGSnk0FZWNhGvoQKEdLp-4" value="Change management - Managed Refresh - VCI Factory" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="410" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGSnk0FZWNhGvoQKEdLp-5" value="Asset inventory (BMC Helix,SNOW, vCloud, Spider)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="410" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGSnk0FZWNhGvoQKEdLp-6" value="Incident Management - Lost and Stolen (BMC Helix, Spider)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="410" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGSnk0FZWNhGvoQKEdLp-7" value="Incident Management - BreakFix (BMC Helix)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="410" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGSnk0FZWNhGvoQKEdLp-8" value="Stock management (Spider, SNOW, BMC Helix)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="410" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGSnk0FZWNhGvoQKEdLp-9" value="Request management - ownership change" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="830" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGSnk0FZWNhGvoQKEdLp-10" value="Procurement request management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="830" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGSnk0FZWNhGvoQKEdLp-11" value="Legacy data - Synchronization" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="620" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGSnk0FZWNhGvoQKEdLp-12" value="Internal reporting - Reportal, Aether" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="830" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGSnk0FZWNhGvoQKEdLp-13" value="Customer reporting management Reportal, Aether" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="830" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGSnk0FZWNhGvoQKEdLp-14" value="Software licence management SNOW" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="830" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGSnk0FZWNhGvoQKEdLp-15" value="Financial account management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="830" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
